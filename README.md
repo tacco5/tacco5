@@ -36,17 +36,7 @@
 
 ---
 
-## 📈 GitHub Stats
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
-
-</div>
-
----
 
 ## 🌱 Atualmente
 
@@ -58,11 +48,6 @@
 
 ## 📫 Contato
 
-<p align="center">
-
-<a href="https://github.com/SEU_USUARIO">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
 
 <a href="mailto:martins.t@estudante.ifmt.edu.br">
 <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
