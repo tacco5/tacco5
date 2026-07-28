@@ -12,7 +12,7 @@
 
 🎓 Estudante de **Sistemas de Informação**.
 
-💡 Gosto por tecnologia, programação e desenvolvimento de software.
+💡 Gosto de tecnologia, programação e desenvolvimento de software.
 
 📚 Atualmente estudando:
 
